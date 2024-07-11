@@ -2,9 +2,9 @@
     <span> Guia de Contribución</span>
 </h1>
 
-[![Star](https://img.shields.io/github/stars/jlescalonap/community_jobs_organizer?style=social)](https://github.com/jlescalonap/community_jobs_organizer)
-[![Forks](https://img.shields.io/github/forks/jlescalonap/community_jobs_organizer?style=social)](https://github.com/jlescalonap/community_jobs_organizer/forks)
-[![GitHub Issues](https://img.shields.io/github/issues/jlescalonap/community_jobs_organizer?style=social)](https://github.com/jlescalonap/community_jobs_organizer/issues/)
+[![Star](https://img.shields.io/github/stars/jlescalonap/community_jobs_organizer_front?style=social)](https://github.com/jlescalonap/community_jobs_organizer_front)
+[![Forks](https://img.shields.io/github/forks/jlescalonap/community_jobs_organizer_front?style=social)](https://github.com/jlescalonap/community_jobs_organizer_front/forks)
+[![GitHub Issues](https://img.shields.io/github/issues/jlescalonap/community_jobs_organizer_front?style=social)](https://github.com/jlescalonap/community_jobs_organizer_front/issues/)
 
  Este es un proyecto hecho pa' la comunidad, así que siéntete libre de echarle un ojo y colaborar como quieras. Puedes meter mano no solo en tu propio Profile README, sino también añadir herramientas útiles en la carpeta utils, o mejorar la página de búsqueda de los READMEs con cambios en los archivos de la carpeta docs. Además, hay otras maneras en las que puedes poner tu granito de arena:
  
@@ -37,7 +37,7 @@ Utilize el comando `git checkout -b` para crear y alternar para la nueva branch 
 > Ejemplo: `git checkout -b feat/community/jlescalonap`
 
 ### 4) Cree su Profile README
- Dentro de la carpeta [`community`](https://github.com/jlescalonap/community_jobs_organizer/tree/main/community), cree un archivo en Markdown (extensión `.md`) y nombrela con el mismo nombre de su User en Github:
+ Dentro de la carpeta [`community`](https://github.com/jlescalonap/community_jobs_organizer_front/tree/main/community), cree un archivo en Markdown (extensión `.md`) y nombrela con el mismo nombre de su User en Github:
 
 > Ejemplo: `community/jlescalonap.md`
 
