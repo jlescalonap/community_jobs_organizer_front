@@ -36,11 +36,13 @@ yarn dev
 Use code with caution.
 content_copy
 Variables de entorno:
-AUTH_GITHUB_ID='github key app id'
-AUTH_GITHUB_SECRET='github secret key'
-AUTH_SECRET=(varible obtenida a partir de un hash)
-NEXTAUTH_URL=http://localhost:3000
-NEXT_PUBLIC_URL=http://localhost:3000
+FACEBOOK_CLIENT_ID='facebook id app'.
+FACEBOOK_CLIENT_SECRET='facebook secretkey Oauth'.
+AUTH_GITHUB_ID='github key app id'.
+AUTH_GITHUB_SECRET='github secret key'.
+AUTH_SECRET=(varible obtenida a partir de un hash).
+NEXTAUTH_URL=http://localhost:3000.
+NEXT_PUBLIC_URL=http://localhost:3000.
 Uso:
 
 La aplicación se puede usar navegando a http://localhost:3000 en su navegador web.
