@@ -28,6 +28,7 @@ Community Jobs Organizer es una aplicación web completa creada por un grupo de 
 
 ```bash
 git clone https://github.com/jlescalonap/community_jobs_organizer_front
+```
 
 ## Comandos de Terminal
 
@@ -52,4 +53,4 @@ La aplicación se puede usar navegando a http://localhost:3000 en su navegador w
 
 ## Contribución
 
- ¡Se alienta la contribución a este proyecto! Puedes enviar solicitudes de extracción para corregir errores, agregar funciones o mejorar la documentación
+¡Se alienta la contribución a este proyecto! Puedes enviar solicitudes de extracción para corregir errores, agregar funciones o mejorar la documentación
