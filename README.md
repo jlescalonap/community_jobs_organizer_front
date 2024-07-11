@@ -22,7 +22,7 @@ Configuración:
 
 Clonar el repositorio:
 Bash
-git clone https://github.com/new
+git clone https://github.com/jlescalonap/community_jobs_organizer_front
 Use code with caution.
 content_copy
 Instalar dependencias:
@@ -35,6 +35,12 @@ Bash
 yarn dev
 Use code with caution.
 content_copy
+Variables de entorno:
+AUTH_GITHUB_ID='github key app id'
+AUTH_GITHUB_SECRET='github secret key'
+AUTH_SECRET=(varible obtenida a partir de un hash)
+NEXTAUTH_URL=http://localhost:3000
+NEXT_PUBLIC_URL=http://localhost:3000
 Uso:
 
 La aplicación se puede usar navegando a http://localhost:3000 en su navegador web.
@@ -53,6 +59,6 @@ Si tiene alguna pregunta o problema con este proyecto, puede crear un problema e
 
 Enlaces:
 
-Repositorio de GitHub: https://github.com/new
-Canal de Discord: https://discord.com/channels/
+Repositorio de GitHub: https://github.com/jlescalonap/community_jobs_organizer_front
+Canal de Discord: por crear
 ¡Gracias por su interés en este proyecto!
