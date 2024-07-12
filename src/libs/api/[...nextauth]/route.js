@@ -1,8 +1,9 @@
+// Modules
 import NextAuth from 'next-auth'
 import FacebookProvider from 'next-auth/providers/facebook'
 import GitHubProvider from "next-auth/providers/github";
 
-//aqui falta aun bastante
+// aqui falta aun bastante
 
 const handler = NextAuth({
     providers: [
@@ -21,4 +22,5 @@ const handler = NextAuth({
     secret: process.env.AUTH_SECRET
     // faltan por configurar callbacks validaciones etc
 })
-export { handler as GET, handler as POST }
+
+export { handler as GET, handler as POST };
